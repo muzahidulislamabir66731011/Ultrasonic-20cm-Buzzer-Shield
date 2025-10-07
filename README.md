@@ -11,9 +11,6 @@
 ![](https://img.shields.io/badge/Code-20_Lines-00ff00?style=for-the-badge)
 
 
-[![Live Serial Plot]()](/)
-
-
 ## ⚡ Logic in one breath
 ```
 distance < 20 cm → buzzer ON  
